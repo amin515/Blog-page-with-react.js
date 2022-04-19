@@ -1,0 +1,108 @@
+
+.team{
+   
+}
+.team .team-wrap{}
+.team .team-wrap .team-box{
+    text-align: center;
+    padding: 20px 0;
+}
+.team .team-wrap .team-box h1{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 800;
+}
+.team .team-wrap .team-box p{
+    width: 800px;
+    margin: auto;
+    color: white;
+}
+
+
+
+.team .team-body{}
+
+.team .team-body .team-body-wrap img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin:auto;
+    border: 5px solid rgb(177, 170, 170);
+    
+}
+.team .team-body .team-body-wrap .team-text-box{
+    text-align: center;
+    color: #fff;
+    padding: 10px 0;
+}
+.team .team-body .team-body-wrap .team-text-box h4{
+    color: bisque;
+}
+.team .team-body .team-body-wrap .team-text-box h5{
+    color: red;
+}
+.team .team-body .team-body-wrap .team-text-box p{
+    color: yellow;
+}
+
+
+/* style 2 */
+
+.team.style-2{
+    padding: 40px 0;
+}
+.team.style-2 .team-wrap .team-box{
+    text-align: left;
+    padding: 20px 0;
+}
+.team.style-2 .team-wrap .team-box h1{
+    color: rgb(23, 222, 109);
+    font-size: 40px;
+    font-weight: 600;
+}
+.team.style-2 .team-wrap .team-box p{
+    color: #e4e0d9;
+    text-align: left;
+    font-weight: 600;
+    width: auto !important;
+}
+.team.style-2 .team-body .team-body-wrap img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 5px solid rgb(177, 170, 170);
+    
+}
+
+.team.style-2 .team-body .team-body-wrap{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+}
+
+.team.style-2 .team-body .team-body-wrap .team-text-box h4{
+    color: rgb(22, 5, 5);
+}
+.team.style-2 .team-body .team-body-wrap .team-text-box h5{
+    color: orange;
+}
+.team.style-2 .team-body .team-body-wrap .team-text-box p{
+    color: white;
+}
+.team.style-2 .team-body .team-body-wrap .team-text-box{
+    text-align: left;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.team.style-3 .team-body .team-body-wrap img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 40px 0 40px 0;
+    border: 5px solid rgb(177, 170, 170);
+    
+}
